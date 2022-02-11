@@ -1,5 +1,3 @@
-## -> [A VIDEO SHOWING HOW THE PROGRAM EXACTLY WORKS](https://drive.google.com/file/d/1hQUiYHpJQpClfQFXCh4waUWeijJky7jv/view?usp=sharing) <-
-
 # Real-Time-Webcam-Sudoku-Solver
 
 ## Table of contents
